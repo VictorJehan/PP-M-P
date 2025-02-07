@@ -4,6 +4,8 @@ body {
 
 h1 {
     text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
 input {
@@ -13,6 +15,7 @@ input {
 
 button {
     text-align: center;
+    justify-content: center;
 }
 
 * {
